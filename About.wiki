@@ -1,0 +1,55 @@
+*www.carlcidromero.dev*
+
+[[/index|Home]] | [[About]] | [[Music]]
+----
+
+=About=
+
+Both this website and I strive for simplicity.
+
+Learning brings me joy. Some of my favorite subjects include hip-hop, history, knowledge management, music theory, philosophy, science, systems theory, and technology.
+
+==Music production==
+
+I am an audio engineer that misses his Akai Pro MPC1000, Mackie CFX12-mkii, and TASCAM DP-02. One day, I just might revert to an analog workstation. Until then, I will continue to use Propellerhead Reason for music composition, arrangement, and sound design along with Apple Logic Pro for record, mix, and master engineering.
+
+Fun fact: my music has appeared in a handful of cool video game soundtracks. 
+
+==Software engineering==
+
+I am a web dev gleefully stuck in Vim.
+
+===Professional experience===
+
+Here is a brief list of tools with which I spend most of my workdays to maintain a design system, shell application, microservice + micro frontend , and multiple libraries:
+
+* Agile software development via:
+  * Bash
+  * Confluence
+  * Git
+  * GitHub
+  * Jenkins
+  * Jira Software
+  * Rollup
+* Atomic design via:
+  * Material Design Components
+  * Sass
+  * Storybook
+* Behavior-driven development via:
+  * Jest
+  * React Testing Library
+* Micro frontends via:
+  * Module Federation
+  * Zustand
+* Web Components via:
+  * React
+  * Stencil
+  * TypeScript
+
+==Writing==
+
+I write concise poems, songs, short stories, technical documentation, and code.
+
+===Notable education===
+
+I studied creative writing under a really cool guy named Anis Mojgani and I earned my Bachelor of Arts in English Literature at Sacramento State University. 
