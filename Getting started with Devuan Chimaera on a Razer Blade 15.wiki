@@ -1,6 +1,0 @@
-*www.carlcidromero.dev*
-
-[[/index|Home]] | [[About]] | [[Blog]] | [[Music]]
-----
-
-=[[Getting started with Devuan Chimaera on a Razer Blade 15]]=
