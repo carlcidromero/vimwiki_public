@@ -3,4 +3,4 @@
 [[/index|Home]] | [[About]] | [[Blog]] | [[Music]]
 ----
 
-=Music=
+=[[Getting started with Devuan Chimaera on a Razer Blade 15]]=

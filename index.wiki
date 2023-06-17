@@ -1,6 +1,6 @@
 *www.carlcidromero.dev*
 
-[[/index|Home]] | [[About]] | [[Music]]
+[[/index|Home]] | [[About]] | [[Blog]] | [[Music]]
 ----
 
 =Home=
