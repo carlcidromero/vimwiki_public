@@ -1,4 +1,4 @@
-*www.carlcidromero.dev*
+*carlcidromero.dev*
 
 [[/index|Home]] | [[About]] | [[Blog]] | [[Music]]
 ----
