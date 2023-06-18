@@ -5,7 +5,7 @@
 
 =Music=
 
-{{file:/images/cyberpunk-2077.jpg|Artwork from the CD PROJEKT RED "Cyberpunk 2077" videogame.}}
+{{file:/cyberpunk-2077.jpg|Artwork from the CD PROJEKT RED "Cyberpunk 2077" videogame.}}
 
 ==CD PROJEKT RED: Cyberpunk 2077 Soundtrack==
 
@@ -15,7 +15,7 @@
 * [[https://open.spotify.com/track/1eMhHShQjR760hIOC0ol1D?si=11fc7fe0180f4371|NBOM]]
 * [[https://open.spotify.com/track/7HRFn2NboZhO0VBa1kP7kx?si=422a960aaabf46cd|Warning Shots]]
 
-{{file:/images/ufc-2.jpg|Artwork from the EA Sports UFC 2 videogame.}}
+{{file:/ufc-2.jpg|Artwork from the EA Sports UFC 2 videogame.}}
 
 ==EA Sports: UFC 2 Soundtrack==
 
