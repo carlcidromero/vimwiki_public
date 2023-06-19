@@ -1,13 +1,13 @@
-*carlcidromero.dev*
+*carlcidromero.dev* | [[https://github.com/dot-ccrdev|github]] | [[https://linkedin.com/in/carlcidromero|linkedin]]
 
-[[/index|Home]] | [[About]] | [[Music]]
+[[/index|home]] | [[/about/about|about]] | [[/blog/blog|blog]] | [[/music/music|music]]
 ----
 
-=Music=
+=music=
 
 {{file:/assets/cyberpunk-2077.jpg|Artwork from the CD PROJEKT RED "Cyberpunk 2077" videogame.}}
 
-==CD PROJEKT RED: Cyberpunk 2077 Soundtrack==
+==cd projekt red: cyberpunk 2077 soundtrack==
 
 * [[https://open.spotify.com/track/3GfJvIgF32IioeiYx94YBh?si=bdd20df03f9048ab|Blouses Blue]]
 * [[https://open.spotify.com/track/2nFPX3pFxeEsxVDnL9Z2Mg?si=b326e2a14dc74ed2|Go Blaze]]
@@ -17,7 +17,11 @@
 
 {{file:/assets/ufc-2.jpg|Artwork from the EA Sports UFC 2 videogame.}}
 
-==EA Sports: UFC 2 Soundtrack==
+==ea sports: ufc 2 soundtrack==
 
 * [[https://open.spotify.com/track/4fLf9dLlewC3TVH0ExhTKJ?si=565ce1d7965843e4|Fight Kicks]]
 * [[https://open.spotify.com/track/1jgWJFFtii7mX7yHtmjisL?si=7dfc44becdd94aed|Rage]]
+
+----
+
+[[https://github.com/dot-ccrdev|github]] | [[https://linkedin.com/in/carlcidromero|linkedin]]
