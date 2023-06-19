@@ -1,0 +1,46 @@
+*carlcidromero.dev* | [[https://github.com/dot-ccrdev|github]] | [[https://linkedin.com/in/carlcidromero|linkedin]]
+
+[[/index|home]] | [[/about/about|about]] | [[/blog/blog|blog]] | [[/music/music|music]]
+----
+
+=the-ghud-paradigm=
+
+==introduction==
+ 
+    *"GHUD Heads Up Display"*
+    ...fractal in nature
+    .It is focused on contextualization
+    .It is seeing the world as
+    .It is...
+
+==perspectives==
+ 
+    *"Visualization"*
+    ...invocation of
+    .an embodiment of
+    .an interaction depicting
+    .an...
+
+    "Documentation"
+    ...archival of
+    .an embodiment of
+    .an interaction depicting
+    .an...
+
+    *"Computation"*
+    ...algorithm of
+    .an embodiment of
+    .an interaction depicting
+    .an...
+
+==embodiments==
+
+    *"Sides"*
+    2 perspectives form a side.
+
+    *"Contexts"*
+    3 sides form a context.
+
+----
+
+[[https://github.com/dot-ccrdev|github]] | [[https://linkedin.com/in/carlcidromero|linkedin]]

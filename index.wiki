@@ -1,12 +1,13 @@
-*carlcidromero.dev*
+*carlcidromero.dev* | [[https://github.com/dot-ccrdev|github]] | [[https://linkedin.com/in/carlcidromero|linkedin]]
 
-[[/index|Home]] | [[About]] | [[Music]]
+[[/index|home]] | [[/about/about|about]] | [[/blog/blog|blog]] | [[/music/music|music]]
 ----
 
-=Home=
+=home=
 
 Hello! Welcome to my digital domain. Click around to learn something new, fun or useful! 
 
 My name is *Carl (Cid) Romero*. I am a *software engineer*. Professionally, my job is to write and maintain quality code, to design elegantly simple solutions for people, and to help those around me accomplish the same — all while *learning* how to do so more effectively *along the way*. Essentially, I strive *to be someone worth turning to* when one feels stuck.
 
-This website is a personal project to share bits about myself and to explore [[https://developer.mozilla.org/en-US/docs/Web/CSS|CSS]], [[https://developer.mozilla.org/en-US/docs/Web/HTML|HTML]] and [[https://developer.mozilla.org/en-US/docs/Web/JavaScript|JS]]. The latter means this website favors using native features of these technologies over leveraging external libraries and frameworks, but solely in the name of education. There is a time and a place for such extensions, but this website is not one of them — in fact, most websites are not. My [[About#About-Software engineering-Professional experience|professional life]], however, keeps me very engaged in these innovations. 
+This website is a personal project to share bits about myself and to explore [[https://developer.mozilla.org/en-US/docs/Web/CSS|CSS]], [[https://developer.mozilla.org/en-US/docs/Web/HTML|HTML]] and [[https://developer.mozilla.org/en-US/docs/Web/JavaScript|JS]]. The latter means this website favors using native features of these technologies over leveraging external libraries and frameworks, but solely in the name of education. There is a time and a place for such extensions, but this website is not one of them — in fact, most websites are not. My [[/about/about#about-software-engineering-professional-experience|professional life]], however, keeps me very engaged in these innovations. 
+
