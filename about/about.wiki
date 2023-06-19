@@ -1,25 +1,25 @@
-*carlcidromero.dev*
+*carlcidromero.dev* | [[https://github.com/dot-ccrdev|github]] | [[https://linkedin.com/in/carlcidromero|linkedin]]
 
-[[/index|Home]] | [[About]] | [[Music]]
+[[/index|home]] | [[/about/about|about]] | [[/blog/blog|blog]] | [[/music/music|music]]
 ----
 
-=About=
+=about=
 
 Both this website and I strive for simplicity.
 
 Learning brings me joy. Some of my favorite subjects include hip-hop, history, knowledge management, music theory, philosophy, science, systems theory, and technology.
 
-==Music production==
+==music-production==
 
 I am an audio engineer that misses his Akai Pro MPC1000, Mackie CFX12-mkii, and TASCAM DP-02. One day, I just might revert to an analog workstation. Until then, I will continue to use Propellerhead Reason for music composition, arrangement, and sound design along with Apple Logic Pro for record, mix, and master engineering.
 
-Fun fact: [[/Music|My music]] has appeared in some cool video game soundtracks. 
+Fun fact: [[/music/music|my music]] has appeared in some cool video game soundtracks. 
 
-==Software engineering==
+==software-engineering==
 
 I am a web dev gleefully stuck in [[https://en.wikipedia.org/wiki/Vim_(text_editor)|Vim]].
 
-===Professional experience===
+===professional-experience===
 
 Here is a brief list of tools with which I spend most of my workdays to maintain a design system, [[https://www.trendmicro.com/en_us/devops/21/h/micro-frontend-guide-technical-integrations.html|shell application]], [[https://microservices.io/|microservice]] + [[https://micro-frontends.org/|micro frontend]] , and multiple [[https://en.wikipedia.org/wiki/Library_(computing)|libraries]]:
 
@@ -46,10 +46,14 @@ Here is a brief list of tools with which I spend most of my workdays to maintain
   * [[https://stenciljs.com/|Stencil]]
   * [[https://typescriptlang.org/|TypeScript]]
 
-==Writing==
+==writing==
 
 I write concise poems, songs, short stories, technical documentation, and code.
 
-===Notable education===
+===notable-education===
 
 I studied creative writing under a really cool guy named [[https://en.wikipedia.org/wiki/Anis_Mojgani|Anis Mojgani]] and I earned my Bachelor of Arts in English Literature at Sacramento State University. 
+
+----
+
+[[https://github.com/dot-ccrdev|github]] | [[https://linkedin.com/in/carlcidromero|linkedin]]
