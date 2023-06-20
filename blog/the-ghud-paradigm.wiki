@@ -9,7 +9,7 @@
  
     *"GHUD Heads Up Display"*
     ...fractal in nature
-    .It is focused on contextualization
+    .It is contextualization
     .It is seeing the world as
     .It is...
 
