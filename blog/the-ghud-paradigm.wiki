@@ -36,10 +36,10 @@
 ==embodiments==
 
     *"Sides"*
-    2 perspectives form a side.
+    .perspective.perspective.
 
     *"Contexts"*
-    3 sides form a context.
+    .side.side.side
 
 ----
 
