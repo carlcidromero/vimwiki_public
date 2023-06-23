@@ -54,6 +54,3 @@ I write concise poems, songs, short stories, technical documentation, and code.
 
 I studied creative writing under a really cool guy named [[https://en.wikipedia.org/wiki/Anis_Mojgani|Anis Mojgani]] and I earned my Bachelor of Arts in English Literature at Sacramento State University. 
 
-----
-
-[[https://github.com/dot-ccrdev|github]] | [[https://linkedin.com/in/carlcidromero|linkedin]]

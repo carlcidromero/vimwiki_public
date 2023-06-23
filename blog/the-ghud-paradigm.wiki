@@ -41,6 +41,3 @@
     *"Contexts"*
     .side.side.side.
 
-----
-
-[[https://github.com/dot-ccrdev|github]] | [[https://linkedin.com/in/carlcidromero|linkedin]]

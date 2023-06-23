@@ -7,6 +7,3 @@
 
 * [[/blog/the-ghud-paradigm|the-ghud-paradigm]]
 
-----
-
-[[https://github.com/dot-ccrdev|github]] | [[https://linkedin.com/in/carlcidromero|linkedin]]

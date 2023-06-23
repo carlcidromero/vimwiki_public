@@ -17,6 +17,7 @@ body {
     sans-serif;
   font-size: 1.2rem;
   line-height: 2rem;
+  max-width: var(--readable-width);
   padding: 1rem;
   width: 100%;
 }
@@ -33,17 +34,6 @@ h6 {
   margin-top: 1rem;
   padding: 0.5rem 0;
   width: 100%;
-}
-
-h2,
-h3,
-h4,
-h5,
-h6 {
-  border-bottom: 1px;
-  border-bottom-style: solid;
-  border-top: 1px;
-  border-top-style: solid;
 }
 
 h1 {
