@@ -5,9 +5,12 @@
 
 =the-ghud-paradigm=
 
+* No rules.
+* Just tools.
+
 ==introduction==
  
-    *"GHUD Heads Up Display"*
+    `GHUD Heads Up Display`
     ...fractal in nature
     .It is contextualization
     .It is seeing the world as
@@ -15,19 +18,19 @@
 
 ==perspectives==
  
-    *"Visualization"*
+    `Visualization`
     ...invocation of
     .an embodiment of
     .an interaction depicting
     .an...
 
-    "Documentation"
+    `Documentation`
     ...archival of
     .an embodiment of
     .an interaction depicting
     .an...
 
-    *"Computation"*
+    `Computation`
     ...algorithm of
     .an embodiment of
     .an interaction depicting
@@ -35,9 +38,9 @@
 
 ==embodiments==
 
-    *"Sides"*
+    `Sides`
     .perspective.perspective.
 
-    *"Contexts"*
+    `Contexts`
     .side.side.side.
 
