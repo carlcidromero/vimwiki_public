@@ -1,0 +1,10 @@
+*carlcidromero.dev* | [[https://github.com/dot-ccrdev|github]] | [[https://linkedin.com/in/carlcidromero|linkedin]]
+
+[[/index|home]] | [[/about/about|about]] | [[/books/books|books]] | [[/music/music|music]]
+----
+
+=books=
+
+* [[/books/the-ahero-anthology|the-ahero-anthology]]
+* [[/books/the-ghud-paradigm|the-ghud-paradigm]]
+

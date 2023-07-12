@@ -1,6 +1,6 @@
 *carlcidromero.dev* | [[https://github.com/dot-ccrdev|github]] | [[https://linkedin.com/in/carlcidromero|linkedin]]
 
-[[/index|home]] | [[/about/about|about]] | [[/blog/blog|blog]] | [[/music/music|music]]
+[[/index|home]] | [[/about/about|about]] | [[/books/books|books]] | [[/music/music|music]]
 ----
 
 =music=
