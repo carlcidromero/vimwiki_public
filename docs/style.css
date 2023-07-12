@@ -184,10 +184,10 @@ del {
   padding: 2px;
 }
 
-.header a {
-  text-decoration: none;
-  color: inherit;
-}
+/* .header a { */
+/*   text-decoration: none; */
+/*   color: inherit; */
+/* } */
 
 /* classes for items of todo lists */
 
